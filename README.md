@@ -58,5 +58,5 @@ CONTACT EMAIL: hr@example-company.com
 ```
 
 ## Disclaimer!!!
-This script was developed for educational and ethical hacking purposes as part of a cybersecurity challenge.
+This script was developed for educational and ethical hacking purposes as part of a cybersecurity challenge.Thanks to the Zostań Security Ninja team for the great challenge!
 
