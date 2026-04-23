@@ -7,7 +7,7 @@ This repository contains a Python-based automation tool designed to solve a mult
 
 The goal of the challenge was to programmatically interact with a web server through several stages to retrieve a hidden "encrypted" contact email address. The process required handling dynamic parameters, custom HTTP headers, and a complex "matryoshka" style encoding.
 
-## 🛠 Features & Techniques Used
+## Features & Techniques Used
 
 * **Session Management:** Uses `requests.Session` to maintain state and cookies across multiple HTTP requests.
 * **Regex Extraction:** Employs complex Regular Expressions (`re`) to parse challenge tokens, timestamps, and JSON-like strings from raw HTML/Text responses.
@@ -15,7 +15,7 @@ The goal of the challenge was to programmatically interact with a web server thr
 * **Recursive Decoding:** Features a robust "Matryoshka" unwrapper that recursively decodes **Base64** strings until the final target (email) is identified via pattern matching.
 * **Custom Headers:** Handles non-standard HTTP headers (e.g., `X-Challenge`, `X-Timestamp`) required for server-side validation.
 
-## 🚀 How it Works
+## How it Works
 
 The script follows a 4-step logic:
 
