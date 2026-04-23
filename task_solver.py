@@ -4,7 +4,7 @@ import json
 import hashlib
 import base64
 
-BASE_URL = "https://task.zostansecurity.ninja"
+BASE_URL = "http://challenge-lab.local"  # URL hidden for confidentiality
 
 def unwrap_matryoshka(data):
     """Function to unwrap the infinite Base64 encoding"""
