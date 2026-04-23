@@ -1,7 +1,7 @@
 
 # Cybersecurity Challenge Solver: Multi-Stage "Matryoshka" Automation
 
-This repository contains a Python-based automation tool designed to solve a multi-stage technical challenge provided by `zostansecurity.ninja`. The script demonstrates advanced skills in web automation, cryptographic hashing, and recursive data decoding.
+This repository contains a Python-based automation tool designed to solve a multi-stage security recruitment challenge. The script demonstrates advanced skills in web automation, cryptographic hashing, and recursive data decoding while following confidentiality protocols.
 
 ## Project Overview
 
